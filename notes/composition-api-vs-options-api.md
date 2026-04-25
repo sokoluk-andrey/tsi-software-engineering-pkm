@@ -1,6 +1,5 @@
 ---
 title: Vue 3 — Composition API vs Options API
-status: stable
 tags: vue, frontend
 ---
 
