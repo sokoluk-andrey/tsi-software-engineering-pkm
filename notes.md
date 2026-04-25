@@ -1,6 +1,5 @@
 ---
 title: Vue 3 — Composition API vs Options API
-status: stable
 tags: vue, frontend
 ---
 
@@ -27,7 +26,6 @@ TaskMaster has features (timers, drag-and-drop, achievements) that will be reuse
 
 ---
 title: JWT vs Session Authentication — When Each Wins
-status: draft
 tags: security, backend, auth
 ---
 
@@ -62,7 +60,6 @@ For a banking app or anything with a real "log them out *now*" requirement, I wo
 
 ---
 title: What Makes a Good ADR
-status: stable
 tags: process, decisions, writing
 ---
 
