@@ -35,9 +35,9 @@ flowchart LR
 
     WarehouseManager --> UC8
     WarehouseManager --> UC9
-    WarehouseManager --> UC11
-    WarehouseManager --> UC12
 
+    PurchasingManager --> UC11
+    PurchasingManager --> UC12
     PurchasingManager --> UC13
 ```
 
