@@ -53,6 +53,7 @@ Used Mermaid's flowchart LR syntax with stadium-shaped nodes ([...]) to approxim
 Mermaid does not natively support UML use case diagrams. As a workaround, I used flowchart LR with stadium shapes for use cases and circles for actors, wrapping the use cases in a subgraph to represent the system boundary. This reproduces the visual structure and associations of a UML use case diagram.
 
 ### Notation Limitation
-Mermaid's circle nodes do not render as the traditional UML stick-figure actor symbol. This is a limitation of Mermaid's flowchart syntax — there is no built-in actor shape outside of sequence diagrams. PlantUML supports proper actor notation, but is not natively rendered by GitHub markdown.
+Mermaid's circle nodes do not render as the traditional UML stick-figure actor symbol. This is a limitation of Mermaid's flowchart syntax — there is no built-in actor shape outside of sequence diagrams.
+
 ### Tool Choice
 I chose Mermaid.js because I had already used it to build the architecture sequence diagram for the selected functionality per Ilin Maksim's task requirements.
